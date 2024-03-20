@@ -1,5 +1,5 @@
 print("Hello!")
-print("Welcome to the band name generator!")
+print("Welcome to the random band name generator!")
 city = input("What city did you grow up in?\n")
 pet = input("What is your pets name?\n")
 print("Your new band name could be" + " " + city + " " + pet)
